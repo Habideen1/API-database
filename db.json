@@ -1,0 +1,92 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Abideen",
+      "lastName": "Adenekan",
+      "occupation": "Software Engineer",
+      "email": "abideenadenekan@example.com",
+      "age": 24
+    },
+    {
+      "id": "2",
+      "firstName": "Mutiat",
+      "lastName": "Afolabi",
+      "occupation": "Data Scientist",
+      "email": "mutiat.afolabi@example.com",
+      "age": 27
+    },
+    {
+      "id": "3",
+      "firstName": "Gbolahan",
+      "lastName": "Brown",
+      "occupation": "Product Manager",
+      "email": "gbolahan.brown@example.com",
+      "age": 29
+    },
+    {
+      "id": "4",
+      "firstName": "Ameenat",
+      "lastName": "Lasisi",
+      "occupation": "UX Designer",
+      "email": "ameenat.lasisi@example.com",
+      "age": 22
+    },
+    {
+      "id": "5",
+      "firstName": "Ridwan",
+      "lastName": "Jimohs",
+      "occupation": "Web Developer",
+      "email": "ridwan.jimoh@example.com",
+      "age": 26
+    },
+    {
+      "id": "6",
+      "firstName": "Busayo",
+      "lastName": "Adeniji",
+      "occupation": "Mobile App Developer",
+      "email": "busayo.adeniji@example.com",
+      "age": 23
+    },
+    {
+      "id": "7",
+      "firstName": "Quadri",
+      "lastName": "Adegbite",
+      "occupation": "DevOps Engineer",
+      "email": "quadri.adegbite@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "8",
+      "firstName": "Omolola",
+      "lastName": "Akinola",
+      "occupation": "Cloud Engineer",
+      "email": "omolola.akinola@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "9",
+      "firstName": "Mariam",
+      "lastName": "Ajiroba",
+      "occupation": "AI Researcher",
+      "email": "mariam.ajiroba@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "10",
+      "firstName": "George",
+      "lastName": "Ibrahim",
+      "occupation": "Cybersecurity Analyst",
+      "email": "george.ibrahim@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "e2bf",
+      "firstName": "Toheeb",
+      "lastName": "Tejuosho",
+      "occupation": "Banker",
+      "email": "abideenadenekan@gmail.com",
+      "age": "30"
+    }
+  ]
+}
